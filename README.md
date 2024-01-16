@@ -1,4 +1,4 @@
-# 💫 About Me:
+ # 💫 About Me:
 👋 Hi there! I'm Veera Prathap, a passionate Master's student in Artificial Intelligence at Brandenburg University of Technology Cottbus, Germany. 🇩🇪<br><br>🌐 With a background of 2 years in web and app development, I bring a wealth of experience to the world of Artificial Intelligence. My journey in AI involves diving into various aspects, from mastering fundamental libraries like Pandas and NumPy to exploring visualization tools such as Seaborn. I am proficient in machine learning with scikit-learn, database management with SQL, and data analysis with Power BI and Excel.<br><br>🚀 Currently, I'm on a mission to stay on the cutting edge of AI, constantly learning and adapting to the latest technologies and methodologies. My GitHub repositories reflect my enthusiasm for building intelligent solutions and exploring the vast landscape of artificial intelligence.<br><br>Let's connect and collaborate on exciting AI projects! 🤖✨
 
 
